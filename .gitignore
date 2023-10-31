@@ -1,0 +1,8 @@
+# Ignore the virtual environment folder
+.venv_digit_recognition/
+
+# Ignore the poetry lock file
+poetry.lock
+
+# Ignore the generated model file
+mnist.h5
